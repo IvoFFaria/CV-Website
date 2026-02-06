@@ -54,11 +54,12 @@ frontend/
 
 ## ✨ Funcionalidades
 
-- Layout moderno e responsivo  
-- Navegação suave por secções  
-- Secção de experiência profissional interativa  
-- Design personalizado com identidade visual própria  
-- Preparado para expansão com portfólio de projetos
+- ✅ Layout moderno e responsivo  
+- ✅ Navegação suave por secções  
+- ✅ Experiência profissional interativa  
+- ✅ Design com identidade visual própria  
+- ✅ Estrutura pronta para expansão
+
 
 
 ---
